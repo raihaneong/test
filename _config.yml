@@ -7,3 +7,10 @@ sidebar:
     link: ./about
   - name: content
     link: ./content
+  - name: challenge
+    link: ./#challenge
+  - name: random stuff
+    link: ./#randomstuff
+  - name: design
+    link: ./#design
+    
