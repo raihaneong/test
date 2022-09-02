@@ -1,8 +1,8 @@
-Scrolling-text-time-waster = https://patorjk.com/misc/scrollingtext/timewaster.php
+Scrolling-text-time-waster = [scroll-time-waster](https://patorjk.com/misc/scrollingtext/timewaster.php)
 
-human body = https://smart.servier.com/
+human body = [human-body](https://smart.servier.com/)
 
-learn-psychology = https://nobaproject.com/
+learn-psychology = [learn-psychology](https://nobaproject.com/)
 
 Google_fun= emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl
 
