@@ -7,22 +7,11 @@ sidebar:
     link: ./about
   - name: content
     link: ./content
-  - [CHALLENGE](#challenge)
-  - [RANDOM STUFF](#random-stuff)
-  - [DESIGN](#design)
-    - [UI/UX](#UI-UX)
-  - [ASSET](#ASSET)
-   - [image](#image)
-   - [video](#video)
-  - [PROGRAMMING](#programming)
-   - [Front-end](#front-end)
-      - [CSS](#css)
-      - [Javascript](#javascript)
-    - [Back-end](#back-end)
-    - [Other](#other)
-  - [DATA STRUCTURE & ALGORITHM](#data-structure-&-algorithm)
-  - [DATABASE](#database)
-  - [FREE STUFF](#free-stuff)
-  - [ARTICLE](#article)
-  - [KULIAH](#Kuliah)
-  - [WORK](#work)
+  - name: CHALLENGE
+    link: ./#challenge
+  - name: RANDOM STUFF
+    link: ./#random-stuff
+  - name: DESIGN
+    link: ./#design
+
+
