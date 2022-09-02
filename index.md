@@ -8,7 +8,8 @@ go to [about](https://raihaneong.github.io/test/about)
 go to [content](https://raihaneong.github.io/test/content)
 
 
-CHALLENGE
+# CHALLENGE
+
 CSS = https://cssbattle.dev/, https://flukeout.github.io/, http://www.flexboxdefense.com/, https://cssgridgarden.com/#id
 
 https://leetcode.com/problemset/all/
@@ -23,16 +24,18 @@ https://neetcode.io/
 
 Typing = https://zty.pe/
 
-RANDOM STUFF
+
+# RANDOM STUFF
+
 Scrolling-text-time-waster = https://patorjk.com/misc/scrollingtext/timewaster.php
 
-human body = https://smart.servier.com/
+human body = [https://smart.servier.com/](https://smart.servier.com/)
 
 learn-psychology = https://nobaproject.com/
 
 Google_fun= emupedia, weavesilk, interland, littlealchemy, drawinggarden, flashbynight, worldmeter, patatap, mrdoob, davidl
 
-AI video= synthesia.io, rephrase.ai, spik.ai, dictation.io,
+AI video= [synthesia.io](http://synthesia.io/), [rephrase.ai](http://rephrase.ai/), [spik.ai](http://spik.ai/), [dictation.io](http://dictation.io/),
 
 AI-music-generator = https://www.beatoven.ai/
 
@@ -40,15 +43,15 @@ AI-image-generator = https://www.craiyon.com/
 
 brief-generator = https://goodbrief.io/
 
-Video_quote= Playphraseme
+Video_quote= [Playphraseme](https://www.playphrase.me/)
 
-shortcut = https://shortcuts.design/
+shortcut = [https://shortcuts.design/](https://shortcuts.design/)
 
-random-logo= https://logoipsum.com/
+random-logo= [https://logoipsum.com/](https://logoipsum.com/)
 
-Text-to-Speech= https://notevibes.com/, https://fakeyou.com/
+Text-to-Speech= [https://notevibes.com/](https://notevibes.com/), [https://fakeyou.com/](https://fakeyou.com/)
 
-vocal-instrument-separate = https://www.lalal.ai/
+vocal-instrument-separate = [https://www.lalal.ai/](https://www.lalal.ai/)
 
 Rakit_pc= pcpartpicker
 
@@ -100,19 +103,19 @@ browser-automation = https://axiom.ai/
 
 resource = https://10015.io/
 
-AI-voice = Coqui.ai
+AI-voice = Coqui.ai 
 
 Splithsong = https://www.splitmysong.com/
 
 Ethical hacking = vulnhub.com
 
-https://killedbygoogle.com/
+https://killedbygoogle.com/ 
 
 github = https://socialify.git.ci/
 
 excel = https://excelunusual.com/
 
-radio = http://radio.garden/
+radio = [http://radio.garden/](http://radio.garden/)
 
 content-generator-ai = https://www.copy.ai/
 
@@ -132,7 +135,7 @@ learn-anything = https://learn-anything.xyz/
 
 FPS-game = https://app.3daimtrainer.com/quick-play
 
-Learn-language = Japan
+Learn-language = [Japan](https://easyjapanese.net/)
 
 --
 
@@ -172,9 +175,11 @@ iaas, paas, baas, sass
 
 --
 
-DESIGN
+# DESIGN
+
 Design_system= humaninterfaceguidelines, http://designsystemrepo.com/, atlasiandesign, materialdesign, primerstyle, spectrumadobe, Microsoftfluentdesignsystem, https://material.io/, https://developer.apple.com/design/human-interface-guidelines/, https://atlassian.design/, https://www.carbondesignsystem.com/, https://www.lightningdesignsystem.com/, https://www.darkmodedesign.com/
 
 auto_gambar= https://www.autodraw.com/
 
 design-style = synthwave, vaporwave
+
